@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import pickle
 
-#-Lesson---2-----------------------------------------------------------------------------------------------------------#
+#-Lesson-2-------------------------------------------------------------------------------------------------------------#
 # # Topic: Bar Chart
 # # load our data (rb means read binary data)
 # with open("fruit-sales.pickle", "rb") as f:
@@ -20,7 +20,7 @@ import pickle
 # # show the created bar plot object by calling plt
 # plt.show()
 #
-# -Lesson---3-----------------------------------------------------------------------------------------------------------#
+# -Lesson-3-------------------------------------------------------------------------------------------------------------#
 # # Topic: Labeling a Chart
 # load our data (rb means read binary data)
 # with open("fruit-sales.pickle", "rb") as f:
