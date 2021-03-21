@@ -31,6 +31,7 @@ import pickle
 # plt.xticks(bar_coords, fruit)
 #
 # # plt.show()
+#
 #-Lesson-4-------------------------------------------------------------------------------------------------------------#
 # # Lessongroup: 2 Horizontal Bar Chart
 #
@@ -51,6 +52,7 @@ import pickle
 #
 # plt.tight_layout() # if there are long texts, it makes them displayed completly on the created graph
 # plt.show()
+#
 #-Lesson-5-------------------------------------------------------------------------------------------------------------#
 # # Lessongroup: 3 Pie Chart
 #
@@ -72,6 +74,7 @@ import pickle
 # plt.title("Daily Time Developers Spend Outside")
 #
 # plt.show()
+#
 #-Lesson-6-------------------------------------------------------------------------------------------------------------#
 # # Lessongroup: 4 Line Chart
 
